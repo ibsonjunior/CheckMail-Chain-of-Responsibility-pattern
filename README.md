@@ -1,0 +1,1 @@
+# CheckMail-Chain-of-Responsibility-pattern
